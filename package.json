@@ -1,0 +1,27 @@
+{
+  "name": "goiteens-js-hw-7-8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potyomko/goiteens-js-hw-7-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Potyomko/goiteens-js-hw-7-8/issues"
+  },
+  "homepage": "https://github.com/Potyomko/goiteens-js-hw-7-8#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "parcel": "^2.8.3",
+    "pnotify": "^5.2.0"
+  }
+}
